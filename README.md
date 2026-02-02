@@ -16,7 +16,7 @@ This project focuses on CSS animations, transforms, and creative visual design.
 
 ## 🎨 Live Demo
 View the live project here:  
-https://sadiapuspita.github.io/ferris-wheel-animation/
+https://sadiapuspita.github.io/ferris-wheel/
 
 ---
 
