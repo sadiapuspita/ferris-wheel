@@ -1,33 +1,32 @@
-# 🎡 Colorful Ferris Wheel Animation
+# 🎡 Ferris Wheel
 
-A **colorful Ferris Wheel ** built using **HTML, CSS, and JavaScript** as part of my **FreeCodeCamp learning journey**.
+A **Ferris Wheel design** built using **HTML and CSS** as part of my **FreeCodeCamp learning journey**.
 
-This project focuses on CSS animations, transforms, and creative visual design.
+This project focuses on layout, positioning, colors, and CSS styling techniques.
 
 ---
 
 ## 🚀 Features
-- Smooth rotating Ferris Wheel animation  
-- Colorful cabins for better visual appeal  
-- Responsive and lightweight design  
-- Beginner-friendly front-end project  
+- Colorful Ferris Wheel design  
+- Built using pure HTML and CSS  
+- Clean and simple structure  
+- Beginner-friendly project  
 
 ---
 
-## 🎨 Live Demo
-View the live project here:  
+## 🌐 Live Demo
+View the project live here:  
 https://sadiapuspita.github.io/ferris-wheel/
 
 ---
 
 ## 🛠 Technologies Used
 - **HTML** – Structure of the Ferris Wheel  
-- **CSS** – Animations, colors, and layout  
-- **JavaScript** – Animation behavior and interaction  
+- **CSS** – Styling, layout, and colors  
 
 ---
 
 ## 💻 How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/sadiapuspita/ferris-wheel-animation.git
+git clone https://github.com/sadiapuspita/ferris-wheel.git
